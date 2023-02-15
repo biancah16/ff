@@ -1,0 +1,12 @@
+#box{
+  width: 125px;
+  height: 125px;
+  background-color: green;
+  margin-bottom: 5px;
+}
+#container{
+  justify-content:space-around;
+  display:flex;
+  flex-wrap:wrap;
+}
+}
